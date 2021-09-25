@@ -37,6 +37,7 @@ If it doesnt fit under any, create a befitting one.
 # CLOUD
 
 # Git & Github
+* [Github Learning Lab](https://lab.github.com/): With GitHub Learning Lab, grow your skills by completing fun, realistic projects. Get advice and helpful feedback from Github's friendly Learning Lab bot.
 
 # UI/UX
 
