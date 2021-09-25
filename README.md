@@ -33,6 +33,7 @@ If it doesnt fit under any, create a befitting one.
 # MOBILE
 
 # AI-ML
+* [Machine Learning with Andrew Ng.](https://www.coursera.org/learn/machine-learning): This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. 
 
 # CLOUD
 
