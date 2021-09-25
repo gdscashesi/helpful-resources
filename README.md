@@ -10,6 +10,8 @@ If it doesnt fit under any, create a befitting one.
 
 📍 Let's go
 
+<br>
+
 # WEB
  ## CSS
  [layout it](https://grid.layoutit.com/)  
@@ -30,13 +32,26 @@ If it doesnt fit under any, create a befitting one.
  [animate](https://keyframes.app/animate)  
  generate key frames for animation
 
+<br>
+
 # MOBILE
 
+
+<br>
+
 # AI-ML
+* [Machine Learning with Andrew Ng.](https://www.coursera.org/learn/machine-learning): This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. 
+
+<br>
 
 # CLOUD
 
+<br>
+
 # Git & Github
+* [Github Learning Lab](https://lab.github.com/): With GitHub Learning Lab, grow your skills by completing fun, realistic projects. Get advice and helpful feedback from Github's friendly Learning Lab bot.
+
+<br>
 
 # UI/UX
 
@@ -44,5 +59,11 @@ If it doesnt fit under any, create a befitting one.
 > develop your skills in android
 
 > [Google Codelabs](https://codelabs.developers.google.com/)
+> guided hands-on tutorials on relating to google tools and technologies
+ 
+<br>
 
-guided hands-on tutorials on relating to google tools and technologies
+# Others
+* [Code Reference](https://self-reference.web.app): A web app with references for various languages for easy access.
+
+<br>
