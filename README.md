@@ -14,23 +14,26 @@ If it doesnt fit under any, create a befitting one.
 
 # WEB
  ## CSS
- [layout it](https://grid.layoutit.com/)  
+ * [layout it](https://grid.layoutit.com/)  
  create grid layouts with ease
 
- [create clip paths](https://bennettfeely.com/clippy/)  
+ * [create clip paths](https://bennettfeely.com/clippy/)  
  easier way to create clip paths
 
- [blob maker](https://www.blobmaker.app/)  
+ * [blob maker](https://www.blobmaker.app/)  
  generate svg blobs
 
- [waves](https://getwaves.io/)  
+ * [waves](https://getwaves.io/)  
  generate svg waves
 
- [haikei](https://haikei.app/)  
+ * [haikei](https://haikei.app/)  
  generate svg assets
 
- [animate](https://keyframes.app/animate)  
+ * [animate](https://keyframes.app/animate)  
  generate key frames for animation
+
+ * [css box shadows](https://getcssscan.com/css-box-shadow-examples)  
+ get a variety of box-shadow values
 
 <br>
 
@@ -40,7 +43,7 @@ If it doesnt fit under any, create a befitting one.
 <br>
 
 # AI-ML
-* [Machine Learning with Andrew Ng.](https://www.coursera.org/learn/machine-learning): This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. 
+* [Machine Learning with Andrew Ng.](https://www.coursera.org/learn/machine-learning): This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition.
 
 <br>
 
@@ -49,21 +52,26 @@ If it doesnt fit under any, create a befitting one.
 <br>
 
 # Git & Github
-* [Github Learning Lab](https://lab.github.com/): With GitHub Learning Lab, grow your skills by completing fun, realistic projects. Get advice and helpful feedback from Github's friendly Learning Lab bot.
+* [Github Learning Lab](https://lab.github.com/)  
+With GitHub Learning Lab, grow your skills by completing fun, realistic projects. Get advice and helpful feedback from Github's friendly Learning Lab bot.
 
 <br>
 
 # UI/UX
 
-> [Pathways](https://developers.google.com/learn/pathways)
-> develop your skills in android
+* [pathways](https://developers.google.com/learn/pathways)  
+develop your skills in android
 
-> [Google Codelabs](https://codelabs.developers.google.com/)
-> guided hands-on tutorials on relating to google tools and technologies
- 
+* [google codelabs](https://codelabs.developers.google.com/)  
+guided hands-on tutorials on relating to google tools and technologies
+
 <br>
 
 # Others
-* [Code Reference](https://self-reference.web.app): A web app with references for various languages for easy access.
+* [code reference](https://self-reference.web.app)  
+a web app with references for various languages for easy access.
+
+* [roadmap](https://roadmap.sh)  
+detailed roadmaps for software development - frontend, backend etc
 
 <br>
