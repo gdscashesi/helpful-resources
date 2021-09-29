@@ -1,6 +1,6 @@
 # Instructions
 
-📍 Fork and Clone the Repo
+📍 Fork and Clone the Repo to your local space
 
 📍 Create a new branch
 
@@ -17,6 +17,7 @@
 ---
 
 # WEB
+  * [Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
  ## CSS
  * [layout it](https://grid.layoutit.com/)  
  create grid layouts with ease
@@ -39,6 +40,18 @@
  * [css box shadows](https://getcssscan.com/css-box-shadow-examples)  
  get a variety of box-shadow values
 
+ * [logos](https://www.logo.wine/)  
+ find any brand logos here
+
+ ## JS
+ * [Javascript Info](https://javascript.info/)  
+ website to learn javascript
+
+ * [Eloquent Javascript](https://eloquentjavascript.net/)  
+ amazing book to learn javascript
+
+ * [ES6+](https://frontendmasters.com/books/javascript-enlightenment/)  
+ learn javascript es6+
 ---
 
 # MOBILE
@@ -59,9 +72,16 @@
 * [Github Learning Lab](https://lab.github.com/)  
 With GitHub Learning Lab, grow your skills by completing fun, realistic projects. Get advice and helpful feedback from Github's friendly Learning Lab bot.
 
+* [Github Student Pack Offers](https://education.github.com/pack/offers)  
+github student pack offers
+
+* [Github Student Pack List](https://education.github.com/pack)  
+github student pack resources list
 ---
 
 # UI/UX
+* [Get Figma Education Plan](https://www.figma.com/education/apply/)  
+figma education plan
 
 ---
 
@@ -80,5 +100,8 @@ a web app with references for various languages for easy access.
 
 * [roadmap](https://roadmap.sh)  
 detailed roadmaps for software development - frontend, backend etc
+
+* [free for dev](https://free-for.dev/#/)  
+list of software with free tiers for developers
 
 <br>
