@@ -61,7 +61,7 @@
 # AI-ML
 
 * [Machine Learning with Andrew Ng.](https://www.coursera.org/learn/machine-learning): This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition.
-  
+
 * Machine Learning roadmap with curated courses
   * Getting started
     * [Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
