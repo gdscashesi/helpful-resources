@@ -126,17 +126,17 @@ guided hands-on tutorials on relating to google tools and technologies
 # Competitive Programming
 
 * Study
-  * [usaco.guide](usaco.guide)
-  * [cp-algorithms](cp-algorithms.com)
-  * [geekforgeeks](geekforgeeks.org)
+  * [usaco.guide](https://usaco.guide)
+  * [cp-algorithms](https://cp-algorithms.com)
+  * [geekforgeeks](https://geekforgeeks.org)
 
 * Practice
-  * [CodeChef](codechef.com)
-  * [Codeforces](codeforces.com)
-  * [AtCoder](atcoder.jp)
-  * [Topcoder](topcoder.com)
-  * [CSES Problemset](cses.fi/problemset)
-  * [Codewars](codewars.com)
+  * [CodeChef](https://codechef.com)
+  * [Codeforces](https://codeforces.com)
+  * [AtCoder](https://atcoder.jp)
+  * [Topcoder](https://topcoder.com)
+  * [CSES Problemset](https://cses.fi/problemset)
+  * [Codewars](https://codewars.com)
 
 * Books
   * [Competitive Programmer's Handbook](https://cses.fi/book.pdf)
