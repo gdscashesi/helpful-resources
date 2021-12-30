@@ -133,6 +133,8 @@ github student pack resources list
 * [Get Figma Education Plan](https://www.figma.com/education/apply/)  
 figma education plan
 
+* [color shade finder](https://colors.artyclick.com/color-shades-finder/)
+
 ---
 
 * [pathways](https://developers.google.com/learn/pathways)  
