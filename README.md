@@ -27,6 +27,9 @@
 
  * [blob maker](https://www.blobmaker.app/)  
  generate svg blobs
+ 
+ * [svg background generator](https://bgjar.com/)  
+ generate svg backgrounds for your apps
 
  * [waves](https://getwaves.io/)  
  generate svg waves
