@@ -135,6 +135,8 @@ figma education plan
 
 * [color shade finder](https://colors.artyclick.com/color-shades-finder/)
 
+* [free illustrations](https://superdevresources.com/free-illustrations-for-websites/)
+
 ---
 
 * [pathways](https://developers.google.com/learn/pathways)  
