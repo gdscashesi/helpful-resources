@@ -36,9 +36,15 @@
 
  * [haikei](https://haikei.app/)  
  generate svg assets
+ 
+ * [svgator](https://svgator.com/)  
+ animate illustrations, icons, logos etc
+ 
+ * [rive](https://rive.app)  
+ create and ship interactive animations
 
  * [animate](https://keyframes.app/animate)  
- generate key frames for animation
+ generate key frames for animation for the web, apps and games
 
  * [css box shadows](https://getcssscan.com/css-box-shadow-examples)  
  get a variety of box-shadow values
