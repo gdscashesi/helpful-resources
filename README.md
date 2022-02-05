@@ -187,4 +187,7 @@ detailed roadmaps for software development - frontend, backend etc
 * [free for dev](https://free-for.dev/#/)  
 list of software with free tiers for developers
 
+* [overapi](https://overapi.com/)  
+cheatsheet for various programming languages and tools
+
 <br>
