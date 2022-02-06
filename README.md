@@ -144,6 +144,45 @@ figma education plan
 
 * [color shade finder](https://colors.artyclick.com/color-shades-finder/)
 
+* [css gradients](https://cssgradient.io/gradient-backgrounds/)  
+create fresh web gradients for your apps
+
+* [neumorphism.io](https://cssgradient.io/gradient-backgrounds/)  
+create neumorphism shaps
+
+* [lorem picsum](https://picsum.photos/)  
+placeholder generator for pictures with lots of customizations options
+
+* [remove.bg](https://www.remove.bg/)  
+remove the background of any photo automatically
+
+* [PPFmaker](https://pfpmaker.com/)  
+generate professional profile pics from any photo
+
+* [compressor.io](https://compressor.io/)  
+efficient image compressor
+
+* [animista](https://animista.net/)
+great tool for creating custom css animations with various effects
+
+* [Font Joy](https://fontjoy.com/)  
+find interesting font pairings
+
+* [Logo Ipsum](https://logoipsum.com/)  
+Logo Placeholder
+
+* [Browser Frame](https://browserframe.com/)  & [Screely](https://www.screely.com/)  
+easily wrap screenshots in browser frames. Generate screenshot from URL etc
+
+* [Box-shadow](https://box-shadow.dev/)  
+easily create modern looking shadows
+
+* [readme.so](https://readme.so/)  
+quickly add and customize all the sections you need for your project's README
+
+* [favicon.io](https://favicon.io/)  
+create a favicon in a few clicks from text, image or emoji
+
 * [free illustrations](https://superdevresources.com/free-illustrations-for-websites/)
 
 ---
@@ -189,5 +228,11 @@ list of software with free tiers for developers
 
 * [overapi](https://overapi.com/)  
 cheatsheet for various programming languages and tools
+
+* [metatags.io](https://metatags.io/)  
+debug and generate meta tag code for an website
+
+* [unminify](https://unminify.com/)  
+free tool to unminify code
 
 <br>
