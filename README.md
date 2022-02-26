@@ -61,6 +61,10 @@
 
  * [ES6+](https://frontendmasters.com/books/javascript-enlightenment/)  
  learn javascript es6+
+ 
+ ## React
+ * [React Awesome Shapes](https://awesomeshapes.netlify.app/)  
+ Awesome shapes for your react projects
 ---
 
 # MOBILE
