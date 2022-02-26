@@ -189,6 +189,12 @@ create a favicon in a few clicks from text, image or emoji
 
 * [free illustrations](https://superdevresources.com/free-illustrations-for-websites/)
 
+* [My Color Space](https://mycolor.space/)  
+Generate color paletters
+
+* [Free Mockups](https://www.mockupworld.co/)  
+Free mockups
+
 ---
 
 * [pathways](https://developers.google.com/learn/pathways)  
