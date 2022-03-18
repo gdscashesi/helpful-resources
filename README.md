@@ -143,6 +143,9 @@ github student pack resources list
 ---
 
 # UI/UX
+* [checklist.design](https://www.checklist.design/)  
+a collection of best design practices
+
 * [Get Figma Education Plan](https://www.figma.com/education/apply/)  
 figma education plan
 
