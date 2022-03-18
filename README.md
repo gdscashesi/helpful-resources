@@ -143,6 +143,9 @@ github student pack resources list
 ---
 
 # UI/UX
+* [laws of ux](https://lawsofux.com/)  
+collection of best practices that designers can consider when building user interfaces.
+
 * [checklist.design](https://www.checklist.design/)  
 a collection of best design practices
 
