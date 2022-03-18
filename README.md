@@ -18,6 +18,8 @@
 
 # WEB
   * [Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+  * [Frontend Checklist](https://frontendchecklist.io/)
+ 
  ## CSS
  * [layout it](https://grid.layoutit.com/)  
  create grid layouts with ease
