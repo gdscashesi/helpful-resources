@@ -73,7 +73,10 @@
 
 ---
 
-# AI-ML
+# DataScience-AI-ML
+
+* [Data Science for beginners](https://microsoft.github.io/Data-Science-For-Beginners/#/) : Curated by Microsoft
+* [ML for beginners](https://microsoft.github.io/ML-For-Beginners/#/) : Curated by Microsoft
 
 * [Machine Learning with Andrew Ng.](https://www.coursera.org/learn/machine-learning): This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition.
 
