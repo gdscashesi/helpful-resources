@@ -19,6 +19,7 @@
 # WEB
   * [Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
   * [Frontend Checklist](https://frontendchecklist.io/)
+  * [What Web Can Do Today](https://whatwebcando.today/)
  
  ## CSS
  * [layout it](https://grid.layoutit.com/)  
