@@ -71,6 +71,7 @@
 ---
 
 # MOBILE
+* [Awesome Android Resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
 
 ---
 
