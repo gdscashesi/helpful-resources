@@ -74,6 +74,11 @@
 
 ---
 
+# DEVOPS & SRE
+* [Google SRE](https://sre.google)
+
+---
+
 # DataScience-AI-ML
 
 * [Data Science for beginners](https://microsoft.github.io/Data-Science-For-Beginners/#/) : Curated by Microsoft
