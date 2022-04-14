@@ -20,6 +20,7 @@
   * [Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
   * [Frontend Checklist](https://frontendchecklist.io/)
   * [What Web Can Do Today](https://whatwebcando.today/)
+  * [Frontend DevTools](https://devtooly.com/)
 
  ## WEB3
   * [Learn Web 3](https://www.learnweb3.io/)
