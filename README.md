@@ -28,6 +28,9 @@
  ## CSS
  * [layout it](https://grid.layoutit.com/)  
  create grid layouts with ease
+ 
+ * [css grid visualized](https://grid.malven.co/)  
+ css grid cheatseet in visuals
 
  * [create clip paths](https://bennettfeely.com/clippy/)  
  easier way to create clip paths
