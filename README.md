@@ -50,6 +50,9 @@
  * [svgator](https://svgator.com/)  
  animate illustrations, icons, logos etc
  
+ * [boxy-svg](https://boxy-svg.com/app)  
+ tool for creating/editting svg files
+ 
  * [rive](https://rive.app)  
  create and ship interactive animations
 
