@@ -21,6 +21,8 @@
   * [Frontend Checklist](https://frontendchecklist.io/)
   * [What Web Can Do Today](https://whatwebcando.today/)
   * [Frontend DevTools](https://devtooly.com/)
+  * [Resources.fyi](https://resource.fyi/)
+  * [Brandfetch](https://brandfetch.com/developers) : get every brand's assets (colors, logos etc)
 
  ## WEB3
   * [Learn Web 3](https://www.learnweb3.io/)
