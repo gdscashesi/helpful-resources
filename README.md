@@ -256,6 +256,8 @@ guided hands-on tutorials on relating to google tools and technologies
 ---
 
 # Miscillaneous
+* [best coding practices](https://bestcodingpractices.dev/)
+best coding practices for dev
 
 * [code reference](https://self-reference.web.app)  
 a web app with references for various languages for easy access.
