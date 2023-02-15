@@ -23,6 +23,7 @@
   * [Frontend DevTools](https://devtooly.com/)
   * [Resources.fyi](https://resource.fyi/)
   * [resources archive for devs](https://app.lazyweb.rocks/)
+  * [codepath dev resources](https://www.codepath.org/dev-resources)
   * [Brandfetch](https://brandfetch.com/developers) : get every brand's assets (colors, logos etc)
 
  ## WEB3
