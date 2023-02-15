@@ -22,6 +22,7 @@
   * [What Web Can Do Today](https://whatwebcando.today/)
   * [Frontend DevTools](https://devtooly.com/)
   * [Resources.fyi](https://resource.fyi/)
+  * [resources archive for devs](https://app.lazyweb.rocks/)
   * [Brandfetch](https://brandfetch.com/developers) : get every brand's assets (colors, logos etc)
 
  ## WEB3
