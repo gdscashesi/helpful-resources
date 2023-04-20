@@ -227,6 +227,13 @@ Generate color paletters
 * [Free Mockups](https://www.mockupworld.co/)  
 Free mockups
 
+* [Adobe Color Paletter Generator](https://color.adobe.com/create/color-wheel)
+Adobe's color wheel
+
+* [Useful Online Tools](https://10015.io/)
+
+* [Create animated mockups](https://app.mockrocket.io/)
+
 ---
 
 * [pathways](https://developers.google.com/learn/pathways)  
